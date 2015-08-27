@@ -8,8 +8,8 @@ This repository contains tricks and notes about programming in different environ
 
 * Android
 
-⋅⋅*[Debug app on device over WIFI without USB cable.](android/debug_over_wifi.md)
+⋅⋅* [Debug app on device over WIFI without USB cable.](android/debug_over_wifi.md)
 
 * Google
 
-⋅⋅*[Free hosting with your free gmail account.](gmail/free_hosting.md)
+⋅⋅* [Free hosting with your free gmail account.](google/free_hosting.md)
